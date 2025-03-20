@@ -1,0 +1,11 @@
+name.firstName,name.lastName,age,address.line1,address.city,address.state,gender,email
+Rajesh,Kumar,32,"47 Green Park",Delhi,Delhi,male,rajesh.kumar@gmail.com
+Priya,Sharma,27,"23 MG Road",Bangalore,Karnataka,female,priya.s@outlook.com
+Vikram,Patel,45,"112 Marine Drive",Mumbai,Maharashtra,male,vikram.p@yahoo.com
+Ananya,Singh,29,"78 Salt Lake",Kolkata,West Bengal,female,ananya.singh@hotmail.com
+Suresh,Reddy,38,"56 Jubilee Hills",Hyderabad,Telangana,male,suresh.r@gmail.com
+Deepa,Nair,31,"12 Panampilly Nagar",Kochi,Kerala,female,deepa.nair@gmail.com
+Amit,Verma,42,"34 Civil Lines",Jaipur,Rajasthan,male,amit.v@yahoo.com
+Meera,Iyer,26,"89 Anna Nagar",Chennai,Tamil Nadu,female,meera.i@outlook.com
+Sanjay,Gupta,37,"23 Vastrapur",Ahmedabad,Gujarat,male,sanjay.g@gmail.com
+Kavita,Joshi,34,"45 Shivaji Nagar",Pune,Maharashtra,female,kavita.j@hotmail.com
